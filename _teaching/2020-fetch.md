@@ -12,3 +12,22 @@ Meeting Information:
 - Meeting Location: Sarah's Apartment
 
 In this course we learn to play fetch with a variety of object ranging from rubber bands to tennis balls.
+
+
+
+
+
+
+where does it place the cut
+
+
+
+
+
+### Where?
+
+
+
+
+
+# Where
