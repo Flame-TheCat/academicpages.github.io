@@ -8,6 +8,7 @@ date: 2020-12-19
 location: "Pullman, WA, USA"
 ---
 Meeting Information:
+
 - Day of Week: Daily
 - Meeting Time: 6:00pm - 9:00pm
 - Meeting Location: Sarah's Apartment
