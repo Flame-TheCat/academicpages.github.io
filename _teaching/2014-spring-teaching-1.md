@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Expert Bird Watching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Workshop"
+permalink: /teaching/2019-expertbird-workshop
+venue: "Sarah's Living Room"
+date: 2019-05-10
+location: "Pullman, WA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I showed everyone what to do when there are birds outside.
 
-Heading 1
-======
 
-Heading 2
-======
+# Key Steps:
+1. Approach window
+2. Twitch tail
+3. Make strange sounds
+4. Run to another window
+5. Return to step 1
 
-Heading 3
-======
