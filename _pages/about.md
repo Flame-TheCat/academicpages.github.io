@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Welcome to my website! I'm a 2-year-old orange tabby. 
+Welcome to my website!
 
-![A photo of me](../images/IMG_3651.JPG)
+![A photo of me](../images/IMG_3651.JPG = 100x20)
 
 ## Hobbies:
 - Bird watching
