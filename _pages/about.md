@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my website!
 
-![A photo of me](../images/IMG_3651.JPG = 100x20)
+![A photo of me](../images/IMG_3651.JPG)
 
 ## Hobbies:
 - Bird watching
@@ -22,5 +22,5 @@ Welcome to my website!
 - Eating
 - Hiding behind objects to scare people
 
-![Fetch](../images/IMG_0814.JPG)
+![Fetch](../images/IMG_0814.jpg)
 
