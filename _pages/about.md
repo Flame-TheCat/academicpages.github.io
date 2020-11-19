@@ -22,5 +22,5 @@ Welcome to my website!
 - Eating
 - Hiding behind objects to scare people
 
-![Fetch](../images/IMG_0814.jpg)
+![Fetch](../images/IMG_6189.jpg)
 
