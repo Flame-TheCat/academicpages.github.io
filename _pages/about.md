@@ -11,7 +11,9 @@ redirect_from:
 
 Welcome to my website! I'm a 2-year-old orange tabby. 
 
-My favorite hobbies include:
+![A photo of me](../images/IMG_3651.JPG)
+
+## Hobbies:
 - Bird watching
 - Sleeping 
 - Biting only the plants that my mom doesn't want me to
