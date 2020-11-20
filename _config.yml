@@ -11,9 +11,9 @@ title                    : "Flame / House cat"
 title_separator          : "-"
 name                     : &name "Flame"
 description              : &description "I am a cat"
-url                      : https://flame-thecat.github.io/flame-thecat # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://flamethecat.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "flame-thecat/flame-thecat"
+repository               : "flamethecat"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
