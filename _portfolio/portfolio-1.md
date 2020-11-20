@@ -1,7 +1,20 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Some quick markdown examples"
+excerpt: "In this, I will show some examples of markdown<br/><img src='/images/IMG_0814.JPG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this portfolio example, I will display some R code:
+
+```R
+a_variable <- 5
+```
+
+We can also talk about equations
+
+$$ \lambda_{y} = a x^{0.849} $$
+Equation 7.46 - Guassian Plume Modeling
+
+
+
+
