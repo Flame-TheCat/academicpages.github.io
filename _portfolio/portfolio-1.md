@@ -1,6 +1,6 @@
 ---
 title: "Some quick markdown examples"
-excerpt: "In this, I will show some examples of markdown<br/><img src='/images/IMG_9286.JPG'>"
+excerpt: "In this, I will show some examples of markdown<br/><img src='../images/IMG_9286.JPG'>"
 collection: portfolio
 ---
 
