@@ -3,7 +3,6 @@ permalink: /toys/
 title: "My Favorite Toys"
 author_profile: true
 redirect_from: 
-  - /toys/
   - /toys.html
 ---
 
